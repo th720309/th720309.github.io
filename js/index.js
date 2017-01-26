@@ -5,16 +5,16 @@
 $(document).ready(function() {
     function camera(){
         var bodyBgs = [];    //创建一个数组变量来存储背景图片的路径
-        bodyBgs[0] = "images/img1.jpg";
-        bodyBgs[1] = "images/img2.jpg";
-        bodyBgs[2] = "images/img3.jpg";
-        bodyBgs[3] = "images/img4.jpg";
-        bodyBgs[4] = "images/img5.jpg";
-        bodyBgs[5] = "images/img6.jpg";
-        bodyBgs[6] = "images/img7.jpg";
-        bodyBgs[7] = "images/img8.jpg";
-        bodyBgs[8] = "images/img9.jpg";
-        bodyBgs[9] = "images/img10.jpg";
+        bodyBgs[0] = "http://oct3pmpde.bkt.clouddn.com/img1.jpg";
+        bodyBgs[1] = "http://oct3pmpde.bkt.clouddn.com/img2.jpg";
+        bodyBgs[2] = "http://oct3pmpde.bkt.clouddn.com/img3.jpg";
+        bodyBgs[3] = "http://oct3pmpde.bkt.clouddn.com/img4.jpg";
+        bodyBgs[4] = "http://oct3pmpde.bkt.clouddn.com/img5.jpg";
+        bodyBgs[5] = "http://oct3pmpde.bkt.clouddn.com/img6.jpg";
+        bodyBgs[6] = "http://oct3pmpde.bkt.clouddn.com/img7.jpg";
+        bodyBgs[7] = "http://oct3pmpde.bkt.clouddn.com/img8.jpg";
+        bodyBgs[8] = "http://oct3pmpde.bkt.clouddn.com/img9.jpg";
+        bodyBgs[9] = "http://oct3pmpde.bkt.clouddn.com/img10.jpg";
         var randomBgIndex = Math.round( Math.random() * 9 );
 /*        $(".logo-svg").toggleClass("switch"),$(".logo-container").toggleClass("switch");*/
        /* $('.logo-svg.weichat').hide();*/
@@ -27,7 +27,7 @@ $(document).ready(function() {
 });
 function logo(){
    /* $(".logo-svg").toggleClass("weichat"),$(".logo-container").toggleClass("weichat");*/
-    $(".logo-svg").css("background","url(/myblog/images/weixin.png) center no-repeat");
+    $(".logo-svg").css("background","url(images/weixin.png) center no-repeat");
     $(".logo-svg").css("background-size","50%");
    /* $(".logo-svg.weichat").style.display = "none";*/
 }
