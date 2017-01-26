@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>th是个小屁孩</title>
+  <subtitle>笔直向前 说到做到</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.tianhao.site/"/>
+  <updated>2017-01-13T10:28:46.000Z</updated>
+  <id>http://www.tianhao.site/</id>
+  
+  <author>
+    <name>th是个小屁孩</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IFE-2016SP(百度前端技术学院）（长期更新）</title>
+    <link href="http://www.tianhao.site/2017/01/06/IFE-2016SP(%E7%99%BE%E5%BA%A6%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2%EF%BC%89%EF%BC%88%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
+    <id>http://www.tianhao.site/2017/01/06/IFE-2016SP(百度前端技术学院）（长期更新）/</id>
+    <published>2017-01-06T03:04:46.000Z</published>
+    <updated>2017-01-13T10:28:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://oct3pmpde.bkt.clouddn.com/1-160411140440X2.jpg" width="600" height="347"></p>
+<a id="more"></a>
+<h2 id="IFE-2016SP-百度前端技术学院）（长期更新）"><a href="#IFE-2016SP-百度前端技术学院）（长期更新）" class="headerlink" title="IFE-2016SP(百度前端技术学院）（长期更新）"></a>IFE-2016SP(百度前端技术学院）（长期更新）</h2><hr>
+<h3 id="第一阶段任务"><a href="#第一阶段任务" class="headerlink" title="第一阶段任务"></a>第一阶段任务</h3><ol>
+<li><a href="https://github.com/th720309/IFE-2016SP/blob/master/index1.html" target="_blank" rel="external">零基础HTML编码</a></li>
+<li><a href="https://github.com/th720309/IFE-2016SP/blob/master/index2.html" target="_blank" rel="external">零基础HTML及CSS编码（一）</a></li>
+<li><a href="https://github.com/th720309/IFE-2016SP/blob/master/index3.html" target="_blank" rel="external">三栏式布局</a></li>
+<li><a href="https://github.com/th720309/IFE-2016SP/blob/master/index4.html" target="_blank" rel="external">定位和居中问题</a></li>
+<li><a href="https://github.com/th720309/IFE-2016SP/blob/master/index6.html" target="_blank" rel="external">任务五：零基础HTML及CSS编码（二）</a></li>
+<li><a href="https://github.com/th720309/IFE-2016SP/blob/master/index5.html" target="_blank" rel="external">任务六：通过HTML及CSS模拟报纸排版</a></li>
+<li><a href="https://github.com/th720309/IFE-2016SP/blob/master/index7.html" target="_blank" rel="external">任务七：实现常见的技术产品官网的页面架构及样式布局</a></li>
+</ol>
+<hr>
+<p> github 代码地址：</p>
+<p><a href="https://github.com/th720309/IFE-2016SP" target="_blank" rel="external">百度前端技术学院2016代码</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://oct3pmpde.bkt.clouddn.com/1-160411140440X2.jpg&quot; width=&quot;600&quot; height=&quot;347&quot; /&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="前端" scheme="http://www.tianhao.site/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="前端" scheme="http://www.tianhao.site/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016年终总结，2017何去何从？</title>
+    <link href="http://www.tianhao.site/2016/12/31/2016%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%EF%BC%8C2017%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E%EF%BC%9F/"/>
+    <id>http://www.tianhao.site/2016/12/31/2016年终总结，2017何去何从？/</id>
+    <published>2016-12-31T05:29:46.000Z</published>
+    <updated>2016-12-31T05:43:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://oct3pmpde.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20161231133754.png" width="600" height="347"></p>
+<a id="more"></a>
+<p><strong>2016，人生的第20个年头。</strong><br>&#8195;<br>呼，都说时间匆匆，自己老是不相信。今天同学问我晚上跨年怎么过，才猛然惊醒，发现一年又过去了。<br>&#8195;<br><strong>愈是停留，愈是不安。那就走吧，但走下去的路也是崎岖。</strong><br>&#8195; </p>
+<hr>
+<h2 id="年终反思"><a href="#年终反思" class="headerlink" title="年终反思"></a><strong>年终反思</strong></h2><p> 这个时候如果要问我2016年干了什么？我的回答应该是一直处在一种迷茫和焦虑的阶段，用了这一年里大半年的时间怀疑自己、思考人生，就考研还是工作这个问题，飘忽不定了大半年，最后彻底想开了，反正哪条路都会后悔，活在当下就好，去tm的考研，好好准备工作，不好吗？像个傻逼似的浑浑厄厄的度过大半年。真傻比！<br> &#8195;<br> 超哥毕业前说，要想着怎么充实自己的简历，找工作前要有筹码，这大半年我每天都在想，每天都要搞点东西出来，或许会蛮开心的，到了年末，细细想想，好多东西都在重复造轮子，比如写了不知道多少的爬虫，用的都是一样的框架，熟悉的感觉，却完全没有了成就感。好像每天都挺勤奋，殊不知，从java到android到python到爬虫，没有一个能写上简历经得拷问的。还有拖了又拖的深度学习研究论文，唉（长叹一声），此处省略无数黑线。<br>  &#8195; </p>
+<hr>
+<h2 id="谈谈收获吧"><a href="#谈谈收获吧" class="headerlink" title="谈谈收获吧"></a><strong>谈谈收获吧</strong></h2><ol>
+<li>今年年初拿到了驾照，虽然练车全程都是被教练骂的痛不欲生，不过最终所有科目都是一次通过，没费什么时间。<br>&#8195; </li>
+<li>终于搭起了自己的个人网站，虽然后台是网上node.js现成的框架，但是学到了不少东西，回家准备用flask搭一个完整的网站项目。<br>&#8195;<br><img src="http://oct3pmpde.bkt.clouddn.com/2016-12-31%2013:11:50%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" width="600" height="347"><br>&#8195; </li>
+<li>CSDN的博客没有荒废，争取明年能够进入前10000名，每天写点东西还是很开心的，管他是不是自我安慰。<br>&#8195;<br><img src="http://oct3pmpde.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20161231130452.png" width="170" height="347"><br>&#8195; </li>
+<li>github上今年提交了6个repo,98次commit,虽然好多是在重复造轮子，但是，写了总比没写强。。。。。。（前半年我在干嘛我也不知道…)<br>&#8195;<br><img src="http://oct3pmpde.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20161231125711.png" width="600" height="160"><br>&#8195; </li>
+<li>假期在本部遇到一群小伙伴，从他们身上学到了很多，挺开心的。</li>
+</ol>
+<hr>
+<h2 id="2017计划"><a href="#2017计划" class="headerlink" title="2017计划"></a>2017计划</h2><ul>
+<li>找份好的实习</li>
+<li>互联网秋招</li>
+<li>互联网秋招</li>
+<li>互联网秋招（重要的事情说三遍）</li>
+<li>多点时间陪爸妈吧（不过明年好像会特别忙）</li>
+<li>能找到一个喜欢的人把（好像tm是句废话）</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://oct3pmpde.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20161231133754.png&quot; width=&quot;600&quot; height=&quot;347&quot; /&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="个人随笔" scheme="http://www.tianhao.site/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="感悟" scheme="http://www.tianhao.site/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>带cookie访问服务器实现模拟登录</title>
+    <link href="http://www.tianhao.site/2016/12/29/%E5%B8%A6cookie%E8%AE%BF%E9%97%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%8E%B0%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95/"/>
+    <id>http://www.tianhao.site/2016/12/29/带cookie访问服务器实现模拟登录/</id>
+    <published>2016-12-29T00:14:06.000Z</published>
+    <updated>2016-12-29T01:56:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://oct3pmpde.bkt.clouddn.com/201206191345109414.jpg" width="600" height="347"></p>
+<a id="more"></a>
+<p>当我们需要抓取需要登录的网站的信息或者实现模拟登录时，我们需要得到第一次登录网站的cookie,以便于下次登录可以不用post参数实现登录，只要将cookie放入头文件就好，这是之前写的模拟登录学校教务的代码，记录以便查阅。</p>
+<hr>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div></pre></td><td class="code"><pre><div class="line">public String DoLogin(final String user, final String password, final String verifation) &#123;</div><div class="line">   </div><div class="line">                DefaultHttpClient   defaultclient = new DefaultHttpClient();  </div><div class="line"></div><div class="line">                //设置post参数</div><div class="line">                List&lt;NameValuePair&gt; params = new ArrayList&lt;NameValuePair&gt;();</div><div class="line"></div><div class="line">                params.add(new BasicNameValuePair(&quot;groupId&quot;, &quot;&quot;));</div><div class="line">                params.add(new BasicNameValuePair(&quot;j_username&quot;, user));</div><div class="line">                params.add(new BasicNameValuePair(&quot;j_password&quot;, password));</div><div class="line">                params.add(new BasicNameValuePair(&quot;j_captcha&quot;, verifation));</div><div class="line">                params.add(new BasicNameValuePair(&quot;login&quot;, &quot;登录&quot;));</div><div class="line"></div><div class="line">                //获得个人主界面的HTML</div><div class="line">                try &#123;</div><div class="line">                	 HttpPost httpPost = new HttpPost(LOGINURL);</div><div class="line">                	 System.out.println(LOGINURL);                	</div><div class="line">                     httpPost.setHeader(&quot;Cookie&quot;, Cookie);                    </div><div class="line">                     HttpResponse httpResponse;</div><div class="line">                     httpPost.setEntity((HttpEntity) new UrlEncodedFormEntity(params, HTTP.UTF_8));</div><div class="line">                     httpResponse = defaultclient.execute(httpPost);</div><div class="line">                     httpPost.setHeader(&quot;Cookie&quot;, Cookie);</div><div class="line">                     System.out.println(Cookie);</div><div class="line">                     if (httpResponse.getStatusLine().getStatusCode() == 200) &#123;</div><div class="line">                          StringBuffer sb = new StringBuffer();</div><div class="line">                          HttpEntity entity = httpResponse.getEntity();</div><div class="line">                          MAINBODYHTML = EntityUtils.toString(entity);        </div><div class="line"></div><div class="line">                          </div><div class="line">                    &#125;</div><div class="line"></div><div class="line">                    if(httpResponse.getStatusLine().getStatusCode() == 302)&#123;</div><div class="line">                    	String locationUrl=httpResponse.getLastHeader(&quot;Location&quot;).getValue();  </div><div class="line">                        System.out.println(locationUrl);</div><div class="line">                        LOGINURL=locationUrl;</div><div class="line">                        System.out.println(&quot;302&quot;);</div><div class="line">                        DoLogin(user, password, verifation);</div><div class="line">                    &#125;                 </div><div class="line">                    else&#123;</div><div class="line">                        StringBuffer sb = new StringBuffer();</div><div class="line">                        HttpEntity entity = httpResponse.getEntity();</div><div class="line">                        MAINBODYHTML = EntityUtils.toString(entity);</div><div class="line">                       System.out.println( MAINBODYHTML);</div><div class="line">                    &#125;</div><div class="line">                &#125; catch (UnsupportedEncodingException e) &#123;</div><div class="line">                	</div><div class="line">                    System.out.println(&quot;验证码不正确&quot;);</div><div class="line">                    e.printStackTrace();</div><div class="line">                &#125; catch (ClientProtocolException e) &#123;</div><div class="line">					// TODO Auto-generated catch block</div><div class="line">					e.printStackTrace();</div><div class="line">				&#125; catch (IOException e) &#123;</div><div class="line">					// TODO Auto-generated catch block</div><div class="line">					e.printStackTrace();</div><div class="line">				&#125;</div><div class="line">                LOGINURL=&quot;http://jw.djtu.edu.cn/academic/j_acegi_security_check&quot;;      </div><div class="line">    </div><div class="line">				return MAINBODYHTML; </div><div class="line">    &#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://oct3pmpde.bkt.clouddn.com/201206191345109414.jpg&quot; width=&quot;600&quot; height=&quot;347&quot; /&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="网络" scheme="http://www.tianhao.site/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="Web" scheme="http://www.tianhao.site/tags/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《请回答1988》——影评</title>
+    <link href="http://www.tianhao.site/2016/12/19/%E3%80%8A%E8%AF%B7%E5%9B%9E%E7%AD%941988%E3%80%8B/"/>
+    <id>http://www.tianhao.site/2016/12/19/《请回答1988》/</id>
+    <published>2016-12-19T06:17:09.000Z</published>
+    <updated>2016-12-19T06:34:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> <img src="http://oct3pmpde.bkt.clouddn.com/p2358593521.jpg" width="600" height="600"><br><a id="more"></a></p>
+<p>这次写文的心情跟之前不是很一样……..</p>
+<p>让我深呼吸一下</p>
+<p>嗯，今天要写的是一个非常平凡的故事，《请回答1988》。</p>
+<p>一个在微笑的时候也会让人流泪的好故事。</p>
+<p>平平淡淡鸡毛蒜皮，却也没有快进过一分一秒，因为，确实，能把一个青春的故事讲成这样，我是佩服的五体投地。</p>
+<hr>
+<h2 id="从始至终，家人和亲故才是根"><a href="#从始至终，家人和亲故才是根" class="headerlink" title="从始至终，家人和亲故才是根"></a>从始至终，家人和亲故才是根</h2><p>看第一集的时候，发现了编剧和导演的内心细腻，看到第二集的时候，我真的觉得这是部神剧了。</p>
+<p>整部剧每个细节都在渲染亲情的可贵，是每个细节！每个细节！每个细节！全写出来真的是写到手软都写不完，有几个印象特别深刻的。  </p>
+<p><strong>大人只是在忍</strong></p>
+<p><strong>只是在忙着大人们的事</strong><br><strong>只是在用故作坚强来承担年龄的重任</strong><br><strong>大人们也会疼。</strong></p>
+<p>德善的奶奶去世的日子，当德善来到老家门口发现每一个人都在院子里面搓麻将或者打牌吃饭，只有母亲一个人在守着，父亲还在笑着招呼别人喝酒，两个姑姑在讨论戒指是金的还是银的，德善发出感叹：他们为什么都不悲伤？</p>
+<p>可是，当千里迢迢从美国赶回来的大哥回到空空荡荡人去院空的门口时，德善的爸爸和姑姑再也忍不住了，抱着大哥哭了起来了，有想过为什么前后反差这么大，后来明白原来大人们不是不悲伤，只是他们藏的很深很深，后来德善的爸爸在和阿泽聊天的时候问：“我们阿泽什么时候会想妈妈呀？”“每天，每天都在想”，德善的爸爸，一个40多岁的父亲，在母亲的葬礼上，忍了一天，最后哭得不能自已。</p>
+<p><strong>听说神不能无处不在</strong><br><strong>所以创造了妈妈。</strong><br><strong>到了妈妈的年龄，</strong><br><strong>妈妈仍然是妈妈的守护神，</strong><br><strong>妈妈这个词，只是叫一叫，也触动心弦。</strong></p>
+<p>谈谈另外一个角色，成宝拉，这个首尔大学的高材生，前两集真的挺烦这人的，对弟弟妹妹除了吼就是吼，后来发现，这个人物的内心真的是暖到不行，并且，她是所有孩子里最懂事的哪一个，更甚于善宇。参加大学生游行运动被抓，看到妈妈的脚趾在滴血，依然护着自己，这个宁愿两天不吃饭也不认错的倔强女儿，在母爱面前无地自容，倔强的自己一个劲的说对不起「偶尔觉得妈妈很丢人，妈妈为什么连起码的脸面和自尊心都没有呢。我都觉得上火。因为比起她自己，她有更想守护的，那就是我。」</p>
+<p>2015年的德善在采访时说，自己想要回到那些日子，是因为想再见到年轻如泰山的父母。<br>我长大了，守护我的那些人都变老了啊</p>
+<p><strong>总之，看完这部剧，真的觉得自己就是父母的全部！</strong>这也是整部剧对亲情描写的中心思想吧。</p>
+<hr>
+<h2 id="双门洞里朋友们的青春"><a href="#双门洞里朋友们的青春" class="headerlink" title="双门洞里朋友们的青春"></a>双门洞里朋友们的青春</h2><p>整部剧最喜欢的就是五人帮在小泽房间的嬉戏玩耍的片段，不管是一起看录像，一起跳舞，还是一起吃泡面，大冬天盖一床被子，被东龙放的屁熏到打成一团，都比现如今所有人呆在自己房间玩着电脑手机要有意思多了。然而青春总是有尽头的，最后所有人还是有了各自的工作，甚至连一起看录像的机会都没有了，最后一集，随着镜头切回荒乱的胡同，一切都不似从前，而当镜头再次回到小泽房间门口，德善还是穿着一开始的那件粉色衣服，她含泪推开门，却看到四个小伙伴坐在地上，回头笑着看她说：“怎么了，德善，又被宝拉姐打了吗？”这个时候，真的像结语一样，才发现自己真的已经长大了啊。</p>
+<hr>
+<h2 id="最后一集的旁白"><a href="#最后一集的旁白" class="headerlink" title="最后一集的旁白"></a>最后一集的旁白</h2><p>当再次回到凤凰堂胡同之时，就如流逝的岁月般，胡同也上了年岁，但无论是我的青春还是这条胡同，再也无法回到过去了。岁月依然流逝，一切终将过去，岁月渐长。青春之所以美丽，恐怕这就是原因。在刹那的瞬间耀眼闪烁之后，再也无法回去。涌出眼泪的青涩岁月，我也有过，这种青春。<br>双八年，我们双门洞的故事就此结束，怀念那个时期，怀念那个胡同，并不只是怀念年轻时候的自己，而是因为那里有爸爸的青春，妈妈的青春，朋友们的青春，和我所有爱着的青春，也因为对那些再也无法聚到一起的年轻的风景最后问候一声而感到惋惜。如今对已经逝去的东西，对再也无法回去的时间，说一声迟到的问候，再见，我的青春，goodbye，双门洞。</p>
+<p> <img src="http://oct3pmpde.bkt.clouddn.com/16d2979c16e02e02819b0827493f5c03_r.jpg" width="600" height="347"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; &lt;img src=&quot;http://oct3pmpde.bkt.clouddn.com/p2358593521.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="影评" scheme="http://www.tianhao.site/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+      <category term="影评" scheme="http://www.tianhao.site/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网易云音乐歌单爬虫 收听量分析</title>
+    <link href="http://www.tianhao.site/2016/12/12/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E6%AD%8C%E5%8D%95%E7%88%AC%E8%99%AB%20%E6%94%B6%E5%90%AC%E9%87%8F%E5%88%86%E6%9E%90/"/>
+    <id>http://www.tianhao.site/2016/12/12/网易云音乐歌单爬虫 收听量分析/</id>
+    <published>2016-12-12T08:10:06.000Z</published>
+    <updated>2016-12-12T08:19:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://oct3pmpde.bkt.clouddn.com/7769149162473098.jpg" width="600" height="347"></p>
+<a id="more"></a>
+<p>今天花了一点时间抓取了网易云音乐的热门民谣歌单，共1500热门民谣歌单，后续有时间会爬取其他分类。文末有源代码下载。</p>
+<p>   下面记录一下过程。</p>
+<hr>
+<h2 id="爬虫过程"><a href="#爬虫过程" class="headerlink" title="爬虫过程"></a>爬虫过程</h2><p>  1.首先抓取各个歌单的url与标题<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div></pre></td><td class="code"><pre><div class="line">public static void DoPachong( String url_str, String charset) throws ClientProtocolException, IOException&#123;</div><div class="line">    		HttpClient hc = new DefaultHttpClient();</div><div class="line">    		HttpGet hg = new HttpGet(url_str);</div><div class="line">    		HttpResponse response = hc.execute(hg);</div><div class="line">    		HttpEntity entity = response.getEntity();</div><div class="line">            </div><div class="line">        </div><div class="line">    		InputStream htm_in = null;</div><div class="line">        </div><div class="line">    		if(entity != null)&#123;</div><div class="line">    			htm_in = entity.getContent();</div><div class="line">    			String htm_str = InputStream2String(htm_in,charset);</div><div class="line">    			Document  doc =  Jsoup.parse(htm_str);</div><div class="line">    			Elements links= doc.select(&quot;div[class=g-bd]&quot;).select(&quot;div[class=g-wrap p-pl f-pr]&quot;).select(&quot;ul[class=m-cvrlst f-cb]&quot;).select(&quot;div[class=u-cover u-cover-1&quot;);</div><div class="line">    			for (Element link : links) &#123;</div><div class="line">    					Elements lin = link.select(&quot;a&quot;);  </div><div class="line">    					String re_url = lin.attr(&quot;href&quot;);</div><div class="line">    					String re_title = lin.attr(&quot;title&quot;);</div><div class="line">    					re_url = &quot;http://music.163.com&quot;+re_url;</div><div class="line">    					System.out.print(re_title+&quot;       &quot;);</div><div class="line">    					System.out.print(re_url+&quot;       &quot;);</div><div class="line">    					SecondPaChong(re_url,charset);</div><div class="line">    			&#125;</div><div class="line">    		&#125;</div><div class="line">    &#125;</div></pre></td></tr></table></figure></p>
+<hr>
+<p>  2.根据抓取的url进一步用jsoup解析收听量</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line">    public static void SecondPaChong( String url_str, String charset) throws ClientProtocolException, IOException&#123;</div><div class="line">		HttpClient hc = new DefaultHttpClient();</div><div class="line">		HttpGet hg = new HttpGet(url_str);</div><div class="line">		HttpResponse response = hc.execute(hg);</div><div class="line">		HttpEntity entity = response.getEntity();</div><div class="line">        </div><div class="line">		InputStream htm_in = null;</div><div class="line">    </div><div class="line">		if(entity != null)&#123;</div><div class="line">			htm_in = entity.getContent();</div><div class="line">			String htm_str = InputStream2String(htm_in,charset);</div><div class="line">			Document  doc =  Jsoup.parse(htm_str);</div><div class="line">			String links= doc.select(&quot;div[class=u-title u-title-1 f-cb]&quot;).select(&quot;div[class=more s-fc3]&quot;).select(&quot;strong&quot;).text();</div><div class="line">			System.out.println(links);</div><div class="line">		</div><div class="line">		&#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<hr>
+<h2 id="爬取结果"><a href="#爬取结果" class="headerlink" title="爬取结果"></a>爬取结果</h2><p><img src="http://oct3pmpde.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20161212155059.png" width="282" height="443"></p>
+<hr>
+<p> 民谣歌单收听量前10：</p>
+<ol>
+<li><p><a href="http://music.163.com/playlist?id=129627424" target="_blank" rel="external">如果你想听民谣，可以从这些歌曲开始。</a>    收听量：11548417</p>
+</li>
+<li><p><a href="http://music.163.com/#/playlist?id=110759778" target="_blank" rel="external">民谣是最安静的角落</a>          收听量：10727168</p>
+</li>
+<li><p><a href="http://music.163.com/#/playlist?id=378324005" target="_blank" rel="external">孤独旅人配民谣。</a>    收听量：9946952</p>
+</li>
+<li><p><a href="http://music.163.com/playlist?id=506453942" target="_blank" rel="external">你若听过他的歌，此生便有了挂念</a>    收听量：7551374</p>
+</li>
+<li><p><a href="http://music.163.com/playlist?id=327180503" target="_blank" rel="external">♬女生嘛，污一点才可爱</a>    收听量：6260712</p>
+</li>
+<li><p><a href="http://music.163.com/#/playlist?id=136549038" target="_blank" rel="external">阅尽沧桑，洗却铅华:聆听那些沧桑之声</a>    收听量：5793889</p>
+</li>
+<li><p><a href="http://music.163.com/playlist?id=131368017" target="_blank" rel="external">民谣，成长中的情绪共谋者</a>    收听量：5368672</p>
+</li>
+<li><p><a href="http://music.163.com/playlist?id=501419209" target="_blank" rel="external">华语女声‖那些入耳入心的代表曲</a>    收听量：4535668</p>
+</li>
+<li><p><a href="http://music.163.com/playlist?id=138911210" target="_blank" rel="external">啤酒邂逅音乐之华语摇滚</a>    收听量：4449337</p>
+</li>
+<li><p><a href="http://music.163.com/playlist?id=49927225" target="_blank" rel="external">中国民谣精选集</a>    收听量：4423420</p>
+</li>
+</ol>
+<hr>
+<h2 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h2><p>源代码下载地址：<a href="https://github.com/th720309/163music_spider.git" target="_blank" rel="external">网易云音乐歌单爬虫</a>（给个fork啊2333）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://oct3pmpde.bkt.clouddn.com/7769149162473098.jpg&quot; width=&quot;600&quot; height=&quot;347&quot; /&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="网络" scheme="http://www.tianhao.site/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="爬虫" scheme="http://www.tianhao.site/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-26随记</title>
+    <link href="http://www.tianhao.site/2016/11/26/2016-11-26%E9%9A%8F%E8%AE%B0/"/>
+    <id>http://www.tianhao.site/2016/11/26/2016-11-26随记/</id>
+    <published>2016-11-26T03:04:46.000Z</published>
+    <updated>2016-11-26T03:04:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://oct3pmpde.bkt.clouddn.com/%E6%9C%AA%E5%91%BD%E5%90%8D.png" width="600" height="347"></p>
+<a id="more"></a>
+<h2 id="随记"><a href="#随记" class="headerlink" title="随记"></a>随记</h2><p>  前两天大连下了第一场大雪，还挺大的，11月也快这么过去了，接踵而来的是各科期末考试。今年元旦左右可能就能回家了，细细想想这一个学期，真是不知道该说什么。开学前告诉自己这学期数学要好好学，然后，还是几乎把所有时间花在了写代码上，只能祈祷实变函数和泛函分析不要挂啊。。。。。</p>
+<p>   下学期好好准备考研，好像再拖下去可能要炸。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://oct3pmpde.bkt.clouddn.com/%E6%9C%AA%E5%91%BD%E5%90%8D.png&quot; width=&quot;600&quot; height=&quot;347&quot; /&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="个人随笔" scheme="http://www.tianhao.site/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="感悟" scheme="http://www.tianhao.site/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python处理矩阵（自然语言处理）</title>
+    <link href="http://www.tianhao.site/2016/11/16/Python%E5%A4%84%E7%90%86%E7%9F%A9%E9%98%B5%EF%BC%88%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%89/"/>
+    <id>http://www.tianhao.site/2016/11/16/Python处理矩阵（自然语言处理）/</id>
+    <published>2016-11-16T08:50:46.000Z</published>
+    <updated>2016-11-19T09:16:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://oct3pmpde.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20161119133306.png" width="600" height="347"><br> <a id="more"></a></p>
+<h2 id="前记"><a href="#前记" class="headerlink" title="前记"></a>前记</h2><p>最近在做机器学习数据的预处理，用到了一些矩阵的处理，非常方便简单，在此记录一下。<br>  主要是numpy包的使用。</p>
+<hr>
+<h2 id="矩阵初始化"><a href="#矩阵初始化" class="headerlink" title="矩阵初始化"></a>矩阵初始化</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">mixtraxs = numpy.zeros([3, 3])               #sentence 矩阵初始化  3×3的0矩阵</div></pre></td></tr></table></figure>
+<hr>
+<h2 id="矩阵的点乘"><a href="#矩阵的点乘" class="headerlink" title="矩阵的点乘"></a>矩阵的点乘</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">m = numpy.array(wordvec_column)   //矩阵竖列</div><div class="line">n = numpy.array(wordvec_row)      //矩阵横列</div><div class="line">lm = numpy.sqrt(m.dot(m))         //竖列的绝对值</div><div class="line">ln = numpy.sqrt(n.dot(n))         //横列的绝对值</div><div class="line">result = numpy.dot(m, n)         //点乘</div><div class="line">cos = result / (lm * ln)          //cos值</div></pre></td></tr></table></figure>
+<hr>
+<h2 id="矩阵的拓展"><a href="#矩阵的拓展" class="headerlink" title="矩阵的拓展"></a>矩阵的拓展</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div></pre></td><td class="code"><pre><div class="line">b = [[2,2,3],[1,2,5],[2,4,6]]</div><div class="line">a = [1,1,1]</div><div class="line">mixtraxs = numpy.row_stack((a, b))            //加行</div><div class="line">print mixtraxs</div><div class="line"></div><div class="line">result :</div><div class="line">[[1 1 1]</div><div class="line"> [2 2 3]</div><div class="line"> [1 2 5]</div><div class="line"> [2 4 6]]</div><div class="line"></div><div class="line"></div><div class="line">b = [[2,2,3],[1,2,5],[2,4,6]]</div><div class="line">a = [1,1,1]</div><div class="line">mixtraxs = numpy.column_stack((a, b))           //加列</div><div class="line">print mixtraxs</div><div class="line"></div><div class="line">result:</div><div class="line">[[1 2 2 3]</div><div class="line"> [1 1 2 5]</div><div class="line"> [1 2 4 6]]</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://oct3pmpde.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20161119133306.png&quot; width=&quot;600&quot; height=&quot;347&quot; /&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="机器学习" scheme="http://www.tianhao.site/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Python" scheme="http://www.tianhao.site/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12随记</title>
+    <link href="http://www.tianhao.site/2016/11/12/2016-11-12%E9%9A%8F%E8%AE%B0/"/>
+    <id>http://www.tianhao.site/2016/11/12/2016-11-12随记/</id>
+    <published>2016-11-12T06:22:46.000Z</published>
+    <updated>2016-11-19T09:12:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://oct3pmpde.bkt.clouddn.com/31189058_1392186616852.jpg" width="600" height="347"></p>
+<a id="more"></a>
+<h2 id="随记"><a href="#随记" class="headerlink" title="随记"></a>随记</h2><p>好长时间没写博客了，这两天博客崩了，图标和留言板都出不来了，一直没找着问题，今天上午才抽出点时间整理，后来发现是GitHub Pages 禁止了 source/vendors 目录的访问。其原因是 Github 在 11 月 3 日更新了版本。其中包括升级了 Jekyll 到 3.3。Jekyll 为了加快构建速度，忽略 vendor 和 node_modules 文件夹，不过还好，现在问题已经解决了，博客恢复原样了。如果有人遇到和我一样的问题，可以看如下解决办法，亲测有效。</p>
+<p>重命名vendors文件夹（source/vendors ），例如修改成VEN。同时在主题配置文件_config.yml中将 _internal: vendors项改成前面重命名文件夹的名称，例如_internal: VEN。然后在博客文件夹下依次执行hexo clean，hexo g，hexo d</p>
+<hr>
+<h2 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h2><p>马上到考试周了，感觉有点炸毛，不过还好，今天把这几周拖了好久的东西都搞完了，下个星期可以好好复习实变函数论和jsp了，因为这几天博客一直没修复好，有一些人留的言没有即时回复，首先谢谢这些远方的朋友光顾我的博客，讲真，平时很少有人进来的，因为百度站点据说需要1年才能收录这个网站，觉得我的哪个专栏写的好的话，可以F12查看我的代码，当然要有点前端基础，大概看得懂html的就没什么问题。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://oct3pmpde.bkt.clouddn.com/31189058_1392186616852.jpg&quot; width=&quot;600&quot; height=&quot;347&quot; /&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="个人随笔" scheme="http://www.tianhao.site/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="感悟" scheme="http://www.tianhao.site/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git上传本地代码到github(最简易教程，不需配置ssh)</title>
+    <link href="http://www.tianhao.site/2016/10/30/git%E4%B8%8A%E4%BC%A0%E6%9C%AC%E5%9C%B0%E4%BB%A3%E7%A0%81%E5%88%B0github%EF%BC%88%E4%B8%8D%E9%9C%80%E9%85%8D%E7%BD%AEssh%EF%BC%89/"/>
+    <id>http://www.tianhao.site/2016/10/30/git上传本地代码到github（不需配置ssh）/</id>
+    <published>2016-10-30T05:50:06.000Z</published>
+    <updated>2016-11-19T09:17:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://oct3pmpde.bkt.clouddn.com/20160130201735_521.jpg" width="600" height="347"></p>
+<a id="more"></a>
+<p>今天帮同学上传github代码时发现网上github入门教程都要配置ssh,很少有不需要配置ssh的，可是ssh配置好麻烦，这篇教程可以给不想配置ssh然后想使用github的用户一点帮助。</p>
+<h2 id="第一步：创建Github新账户下载mygit"><a href="#第一步：创建Github新账户下载mygit" class="headerlink" title="第一步：创建Github新账户下载mygit"></a>第一步：创建Github新账户下载mygit</h2><blockquote>
+<p>在github官网上注册一个帐号     <a href="https://github.com" target="_blank" rel="external">https://github.com</a><br>去网上下载mygit(git工具）</p>
+</blockquote>
+<hr>
+<h2 id="第二步：新建仓库"><a href="#第二步：新建仓库" class="headerlink" title="第二步：新建仓库"></a>第二步：新建仓库</h2><p><img src="http://img.blog.csdn.net/20161030132122920" alt="这里写图片描述"></p>
+<blockquote>
+<p>  进入自己github主页，点击new，新建一个repositories,建完后可以进入这个repositories.然后复制这个https地址，后面有用。</p>
+</blockquote>
+<p><img src="http://img.blog.csdn.net/20161030132758346" alt="这里写图片描述"></p>
+<hr>
+<h2 id="第三步：设置帐号与邮箱-第一次使用设置，之后可跳过此步"><a href="#第三步：设置帐号与邮箱-第一次使用设置，之后可跳过此步" class="headerlink" title="第三步：设置帐号与邮箱 (第一次使用设置，之后可跳过此步)"></a>第三步：设置帐号与邮箱 (第一次使用设置，之后可跳过此步)</h2><blockquote>
+<p>在电脑任意地方右键调出git bush 工具，然后输入下面命令：<br>git config –global user.name “your name”<br>git config –global user.email “your email address”</p>
+</blockquote>
+<hr>
+<h2 id="第四步：clone-刚才的https地址到本地"><a href="#第四步：clone-刚才的https地址到本地" class="headerlink" title="第四步：clone 刚才的https地址到本地"></a>第四步：clone 刚才的https地址到本地</h2><blockquote>
+<p>在本地新建一个文件夹，然后利用右键git bush（windows)或者cd 到当前文件夹（linux),在终端中输入以下命令：<br>git clone <a href="https://github.com/th720309/123.git(右面的为你自己仓库的地址" target="_blank" rel="external">https://github.com/th720309/123.git(右面的为你自己仓库的地址</a>) </p>
+</blockquote>
+<hr>
+<h2 id="第五步：添加上传文件"><a href="#第五步：添加上传文件" class="headerlink" title="第五步：添加上传文件"></a>第五步：添加上传文件</h2><blockquote>
+<p>将你要上传的project文件夹放到上一步新建的文件夹下面，之后输入下面命令：<br>git add .        //注意add后面有一个空格和.</p>
+</blockquote>
+<hr>
+<h2 id="第六步：commit与push"><a href="#第六步：commit与push" class="headerlink" title="第六步：commit与push"></a>第六步：commit与push</h2><blockquote>
+<p>git init<br>git commit -m ‘stumansys’<br>git remote add origin <a href="https://github.com/th720309/123.git(右面的为你自己仓库的地址" target="_blank" rel="external">https://github.com/th720309/123.git(右面的为你自己仓库的地址</a>)<br>git push origin master<br>输入你的username和password,然后等待上传就OK了。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://oct3pmpde.bkt.clouddn.com/20160130201735_521.jpg&quot; width=&quot;600&quot; height=&quot;347&quot; /&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="git" scheme="http://www.tianhao.site/categories/git/"/>
+    
+    
+      <category term="git" scheme="http://www.tianhao.site/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HttpUnit模拟点击以及爬虫实现</title>
+    <link href="http://www.tianhao.site/2016/10/29/HttpUnit%E6%A8%A1%E6%8B%9F%E7%82%B9%E5%87%BB%E4%BB%A5%E5%8F%8A%E7%88%AC%E8%99%AB%E5%AE%9E%E7%8E%B0/"/>
+    <id>http://www.tianhao.site/2016/10/29/HttpUnit模拟点击以及爬虫实现/</id>
+    <published>2016-10-29T14:14:06.000Z</published>
+    <updated>2016-10-30T05:47:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="HttpUnit-简介"><a href="#HttpUnit-简介" class="headerlink" title="HttpUnit 简介"></a>HttpUnit 简介</h2><blockquote>
+<p>HttpUnit 本质上相当于一个后台的透明的浏览器引擎，使用java中的HttpUnit可以实现模拟点击按钮，抓取网页元素，实现动态爬虫，之前一直使用jsoup进行爬虫，不过这次爬取一个生物论坛时候，需要动态处理，发现了httpUnit这个好的框架。</p>
+</blockquote>
+<hr>
+<h2 id="HttpUnit-demo"><a href="#HttpUnit-demo" class="headerlink" title="HttpUnit demo"></a>HttpUnit demo</h2><hr>
+<p>1.几行代码实现获取网页源代码。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">final WebClient webClient=new WebClient();</div><div class="line">final HtmlPage page=webClient.getPage(&quot;http://www.baidu.com&quot;);</div><div class="line">System.out.println(page.asText());  //asText()是以文本格式显示</div><div class="line">System.out.println(page.asXml());   //asXml()是以xml格式显示</div><div class="line">webClient.closeAllWindows();</div></pre></td></tr></table></figure>
+<hr>
+<a id="more"></a>
+<p>2.模拟文本框与模拟按钮提交，下面我们模拟实现模拟百度搜索关键字。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line">// 得到浏览器对象，直接New一个就能得到，现在就好比说你得到了一个浏览器了  </div><div class="line">    WebClient webclient = new WebClient();  </div><div class="line">  </div><div class="line">    // 这里是配置一下不加载css和javaScript，因为httpunit对javascript兼容性不太好</div><div class="line">    webclient.getOptions().setCssEnabled(false);  </div><div class="line">    webclient.getOptions().setJavaScriptEnabled(false);  </div><div class="line">  </div><div class="line">    // 做的第一件事，去拿到这个网页，只需要调用getPage这个方法即可  </div><div class="line">    HtmlPage htmlpage = webclient.getPage(&quot;http://baidu.com&quot;);  </div><div class="line">  </div><div class="line">    // 根据名字得到一个表单，查看上面这个网页的源代码可以发现表单的名字叫“f”  </div><div class="line">    final HtmlForm form = htmlpage.getFormByName(&quot;f&quot;);  </div><div class="line">    // 同样道理，获取”百度一下“这个按钮  </div><div class="line">    final HtmlSubmitInput button = form.getInputByValue(&quot;百度一下&quot;);  </div><div class="line">    // 得到搜索框  </div><div class="line">    final HtmlTextInput textField = form.getInputByName(&quot;q1&quot;);  </div><div class="line">    //搜索我的id</div><div class="line">    textField.setValueAttribute(&quot;th是个小屁孩&quot;);  </div><div class="line">    // 输入好了，我们点一下这个按钮  </div><div class="line">    final HtmlPage nextPage = button.click();  </div><div class="line">    // 我把结果转成String  </div><div class="line">    String result = nextPage.asXml();  </div><div class="line">      </div><div class="line">    System.out.println(result);  //得到的是点击后的网页</div></pre></td></tr></table></figure>
+<hr>
+<blockquote>
+<p> 感觉httpunit比httpclient好像简单了不少，以后java爬虫可以多试试这个框架，里面还有好多提取节点的方法可以直接调用，但是好像对div的class无法提取节点，不过可以根据id抓取节点，唉，不知道如果div没写id的网站怎么抓取，好像没有提供这样的方法可以根据class抓取，有知道的同学可以给点点子。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;HttpUnit-简介&quot;&gt;&lt;a href=&quot;#HttpUnit-简介&quot; class=&quot;headerlink&quot; title=&quot;HttpUnit 简介&quot;&gt;&lt;/a&gt;HttpUnit 简介&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;HttpUnit 本质上相当于一个后台的透明的浏览器引擎，使用java中的HttpUnit可以实现模拟点击按钮，抓取网页元素，实现动态爬虫，之前一直使用jsoup进行爬虫，不过这次爬取一个生物论坛时候，需要动态处理，发现了httpUnit这个好的框架。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;HttpUnit-demo&quot;&gt;&lt;a href=&quot;#HttpUnit-demo&quot; class=&quot;headerlink&quot; title=&quot;HttpUnit demo&quot;&gt;&lt;/a&gt;HttpUnit demo&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;1.几行代码实现获取网页源代码。&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;final WebClient webClient=new WebClient();&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;final HtmlPage page=webClient.getPage(&amp;quot;http://www.baidu.com&amp;quot;);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;System.out.println(page.asText());  //asText()是以文本格式显示&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;System.out.println(page.asXml());   //asXml()是以xml格式显示&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;webClient.closeAllWindows();&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+      <category term="网络" scheme="http://www.tianhao.site/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="爬虫" scheme="http://www.tianhao.site/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux tensorflow 框架搭建与实现风格作画</title>
+    <link href="http://www.tianhao.site/2016/10/12/Linux%E5%AE%9E%E7%8E%B0tensorflow%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0%E9%A3%8E%E6%A0%BC%E4%BD%9C%E7%94%BB/"/>
+    <id>http://www.tianhao.site/2016/10/12/Linux实现tensorflow搭建与实现风格作画/</id>
+    <published>2016-10-12T07:10:54.000Z</published>
+    <updated>2016-10-12T08:29:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="CPU平台完成两图风格融合完美作画"><a href="#CPU平台完成两图风格融合完美作画" class="headerlink" title="CPU平台完成两图风格融合完美作画"></a>CPU平台完成两图风格融合完美作画</h2><ol>
+<li>该教程根据研究者july教程补充编写</li>
+<li>作者: th是个小屁孩</li>
+<li>实验平台为Ubuntu 14.04 , 版本关系不大，16.04也可以进行实验</li>
+<li>该实验采用谷歌开源框架tensorflow</li>
+</ol>
+<p>##前言<br>  前几日在微博看到july的梵高作画实验，发现挺有意思，便打算进行实验一番，由于学生党，没有什么特别好的机器，只能使用垃圾显卡和还可以的处理器进行实验，没有GPU，加大了时间成本，不过没关系，能跑出来就很成功了。<br> <a id="more"></a></p>
+<h2 id="安装"><a href="#安装" class="headerlink" title=" 安装"></a> 安装</h2><pre><code>2.1、安装tensorflow
+</code></pre><p> Windows下打开浏览器，输入：<a href="https://github.com/tensorflow/tensorflow" target="_blank" rel="external">https://github.com/tensorflow/tensorflow</a></p>
+<p>下载Linux CPU-only:Python2  ，下载的是一个whl文件，下面会用到。</p>
+<pre><code>2.2 安装neural-style
+</code></pre><p>再在地址栏输入：<a href="https://github.com/anishathalye/neural-style" target="_blank" rel="external">https://github.com/anishathalye/neural-style</a></p>
+<p>  点击clone or download,将该代码download下来</p>
+<pre><code>2.3 安装vgg19
+</code></pre><p>再在地址栏输入：<a href="http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat" target="_blank" rel="external">http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat</a></p>
+<p>弹出一个下载对话框，直接下载。</p>
+<p>下载后的文件放到刚刚的neural-style文件夹根目录下就行，如图所示</p>
+<p><img src="http://img.blog.csdn.net/20161012143052928" alt="这里写图片描述"></p>
+<h2 id="实验"><a href="#实验" class="headerlink" title=" 实验"></a> 实验</h2><pre><code>1 准备工作 
+</code></pre><p>打开终端窗口，输入：sudo –i</p>
+<p> <em>*</em> （你的密码）</p>
+<p>apt-get update（更新所有源）</p>
+<p> sudo apt-get install python-dev<br> sudo apt-get install python-scipy<br> sudo apt-get install python-pip</p>
+<p> 有的人顺序颠倒会出现问题，尽量别颠倒<br>（以上命令是下载一些tensorflow的必要库）</p>
+<p>接着进入tensorflow保存的位置</p>
+<p>输入：pip install tensorflow-0.10.0-cp27-none-linux_x86_64.whl  //此文件为 之前下载导tensorflow文件</p>
+<pre><code>2 开始实验
+</code></pre><p>成功后输入：cd  进  neural-style-master  进入neural文件夹目录下</p>
+<p>输入：python neural_style.py - -content ./examples/1-content.jpg - -styles ./examples/1-style.jpg - -output ./examples/JulyEdu.jpg      回车键看结果如何</p>
+<pre><code>1.如果是下图所示
+</code></pre><p><img src="http://img.blog.csdn.net/20161012150217679" alt="这里写图片描述"></p>
+<p>  恭喜你，成功了，等待完成就可以看到成果了</p>
+<pre><code>2.如果是下图所示
+</code></pre><p><img src="http://img.blog.csdn.net/20161012150244914" alt="这里写图片描述"></p>
+<p>需要更改一点东西，不急，看完下面的解决方案，就可以成功了。<br>   进入到一下文件夹下面，找到packaging.py</p>
+<p><img src="http://img.blog.csdn.net/20161012150107068" alt="这里写图片描述"></p>
+<p>  如下图所示，在version 下加上return  值，保存就行。</p>
+<p><img src="http://img.blog.csdn.net/20161012150141424" alt="这里写图片描述"></p>
+<p>linux 新手不熟悉命令行的</p>
+<p>在终端中输入下面口令，然后再用gedit编辑器编辑，编辑后即可保存</p>
+<pre><code>sudo gedit /usr/local/lib/python2.7/distpackages/pbr/packaging.py
+</code></pre><p>   然后如上再进行实验，就可以大功告成了。</p>
+<p>  多谢研究者July的教程，以上为我在根据July的实验操作中遇到的问题解决。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;CPU平台完成两图风格融合完美作画&quot;&gt;&lt;a href=&quot;#CPU平台完成两图风格融合完美作画&quot; class=&quot;headerlink&quot; title=&quot;CPU平台完成两图风格融合完美作画&quot;&gt;&lt;/a&gt;CPU平台完成两图风格融合完美作画&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;该教程根据研究者july教程补充编写&lt;/li&gt;
+&lt;li&gt;作者: th是个小屁孩&lt;/li&gt;
+&lt;li&gt;实验平台为Ubuntu 14.04 , 版本关系不大，16.04也可以进行实验&lt;/li&gt;
+&lt;li&gt;该实验采用谷歌开源框架tensorflow&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;##前言&lt;br&gt;  前几日在微博看到july的梵高作画实验，发现挺有意思，便打算进行实验一番，由于学生党，没有什么特别好的机器，只能使用垃圾显卡和还可以的处理器进行实验，没有GPU，加大了时间成本，不过没关系，能跑出来就很成功了。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="机器学习" scheme="http://www.tianhao.site/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Linux" scheme="http://www.tianhao.site/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 迁移各种问题</title>
+    <link href="http://www.tianhao.site/2016/10/10/linux%20%E8%BF%81%E7%A7%BB%E5%90%84%E7%A7%8D%E9%97%AE%E9%A2%98/"/>
+    <id>http://www.tianhao.site/2016/10/10/linux 迁移各种问题/</id>
+    <published>2016-10-10T05:01:54.000Z</published>
+    <updated>2016-10-10T11:09:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Linux-安装各种情况记录"><a href="#Linux-安装各种情况记录" class="headerlink" title="Linux 安装各种情况记录"></a>Linux 安装各种情况记录</h1><p>  这几天一直没有更新博客，一个是国庆节放假在家放纵了几天没有学习，另一个原因是一直在搞Linux系统，下面记录一下我安装的坑爹过程。</p>
+<hr>
+<h2 id="系统安装的问题"><a href="#系统安装的问题" class="headerlink" title="系统安装的问题"></a>系统安装的问题</h2><p>我安装的是Ubuntu 14.04，据说是最稳定的版本，安装过程中出了一些问题，首先，一开始，我的无线网卡没有识别，无法上网，然后我就打算先用有线网络，然后再下载无线驱动进行无线上网配置，然而苦逼的我不但无线连不上，连有线网络也无法连接。弄了一上午，配置锐捷也配置mentohust,都提示认证成功但是就是无法上网，找了很多教程也没弄明白怎么回事，最后想想好像有线网络对我来说在学校也没什么用，就开始研究无线驱动，好在看到一篇教程，在Ubuntu安装开始时先在试用版中找到附加驱动，将无线驱动安装完成，然后再正式安装这样就解决了我的无线驱动问题，另外，说真的，Linux下的输入法总是出现一些问题，搜狗输入法也是，有时候切换不了中文。<br> <a id="more"></a></p>
+<h2 id="Windows往Linux系统hexo的迁移"><a href="#Windows往Linux系统hexo的迁移" class="headerlink" title="Windows往Linux系统hexo的迁移"></a>Windows往Linux系统hexo的迁移</h2><p>我们一定要先在Windows下 将hexo备好份，然后在Linux下安装hexo,需要说明的是尽量在安装node.js的时候不要直接用 sudo apt-get install nodejs 进行安装，后面会错误百出，我们hexo安装好之后就可以把备份的theme文件和config.xml 复制到Linux平台下的hexo文件夹，这样一切命令如常。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Linux-安装各种情况记录&quot;&gt;&lt;a href=&quot;#Linux-安装各种情况记录&quot; class=&quot;headerlink&quot; title=&quot;Linux 安装各种情况记录&quot;&gt;&lt;/a&gt;Linux 安装各种情况记录&lt;/h1&gt;&lt;p&gt;  这几天一直没有更新博客，一个是国庆节放假在家放纵了几天没有学习，另一个原因是一直在搞Linux系统，下面记录一下我安装的坑爹过程。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;系统安装的问题&quot;&gt;&lt;a href=&quot;#系统安装的问题&quot; class=&quot;headerlink&quot; title=&quot;系统安装的问题&quot;&gt;&lt;/a&gt;系统安装的问题&lt;/h2&gt;&lt;p&gt;我安装的是Ubuntu 14.04，据说是最稳定的版本，安装过程中出了一些问题，首先，一开始，我的无线网卡没有识别，无法上网，然后我就打算先用有线网络，然后再下载无线驱动进行无线上网配置，然而苦逼的我不但无线连不上，连有线网络也无法连接。弄了一上午，配置锐捷也配置mentohust,都提示认证成功但是就是无法上网，找了很多教程也没弄明白怎么回事，最后想想好像有线网络对我来说在学校也没什么用，就开始研究无线驱动，好在看到一篇教程，在Ubuntu安装开始时先在试用版中找到附加驱动，将无线驱动安装完成，然后再正式安装这样就解决了我的无线驱动问题，另外，说真的，Linux下的输入法总是出现一些问题，搜狗输入法也是，有时候切换不了中文。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.tianhao.site/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://www.tianhao.site/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016-9-22随记</title>
+    <link href="http://www.tianhao.site/2016/09/22/2016-9-22%E9%9A%8F%E8%AE%B0/"/>
+    <id>http://www.tianhao.site/2016/09/22/2016-9-22随记/</id>
+    <published>2016-09-22T10:54:02.000Z</published>
+    <updated>2016-09-22T10:56:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="随记"><a href="#随记" class="headerlink" title="随记"></a>随记</h2><p>腾讯出了一部电影《@互联网人》，最近阿里的月饼事件炒的挺火，前段时间百度的魏则西事件让百度亏损了不少，更站在了舆论风头，这个时候，好像觉得腾讯确实是一家良心公司了，看完这部《@互联网人》，对产品经理有了一些不一样的认识。<br> <a id="more"></a><br>这几天有在想不管考研，工作，以后究竟要走什么方向，这真的是最难想的问题了，还是不想了吧，头大。路到桥头自然直。</p>
+<p>感兴趣的可以看看这部《@互联网人》，里面有句话说的挺好，我在互联网行业的价值是什么？谁知道呢，相信这座城市，相信自己，总会知道自己要干嘛。</p>
+<p>《@互联网人》电影链接地址：<a href="http://v.qq.com/x/cover/irde3kz56b4rj94.html?" target="_blank" rel="external">《@互联网人》</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;随记&quot;&gt;&lt;a href=&quot;#随记&quot; class=&quot;headerlink&quot; title=&quot;随记&quot;&gt;&lt;/a&gt;随记&lt;/h2&gt;&lt;p&gt;腾讯出了一部电影《@互联网人》，最近阿里的月饼事件炒的挺火，前段时间百度的魏则西事件让百度亏损了不少，更站在了舆论风头，这个时候，好像觉得腾讯确实是一家良心公司了，看完这部《@互联网人》，对产品经理有了一些不一样的认识。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="个人随笔" scheme="http://www.tianhao.site/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="感悟" scheme="http://www.tianhao.site/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法篇————二分查找算法</title>
+    <link href="http://www.tianhao.site/2016/09/18/%E7%AE%97%E6%B3%95%E7%AF%87%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/"/>
+    <id>http://www.tianhao.site/2016/09/18/算法篇————二分查找算法/</id>
+    <published>2016-09-18T01:19:36.000Z</published>
+    <updated>2016-09-18T01:24:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="二分查找算法总结"><a href="#二分查找算法总结" class="headerlink" title="二分查找算法总结"></a>二分查找算法总结</h2><ol>
+<li>典型的二分查找</li>
+<li>复杂度低的二分查找</li>
+<li><p>例子</p>
+<a id="more"></a>
+<p>典型的二分查找</p>
+<p>给一个已经排序的已知的数组A[N],在最短的时间内找到其中的一个元素。下面给出最典型的二分查找算法。</p>
+</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">int BinarySearch(int A[],int l,int r,int key)&#123;</div><div class="line">    int m;</div><div class="line">    while( l &lt;= r )&#123;</div><div class="line">        m = ( l + r ) / 2;</div><div class="line">        if( A[m] == key )  // 第一次比较</div><div class="line">            return m;</div><div class="line">        if( A[m] &lt; key )   // 第二次比较</div><div class="line">            l = l + 1;</div><div class="line">        else</div><div class="line">            m = m - 1;</div><div class="line">    &#125;</div><div class="line">    return -1;   // 为查找到该元素返回-1</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>理论上，我们最多需要 logN+1 次比较。仔细观察，我们在每次迭代中使用两次比较，除了最后比较成功的一次。实际应用上，比较也是代价高昂的操作，往往不是简单的数据类型的比较。减少比较的次数也是优化的方向之一。</p>
+<hr>
+<p>复杂度低的二分查找</p>
+<p>下面是一个比较次数更少的实现：<br>需要注意的，要保证我们恒等式（A[l] &lt;= key &amp; A[r] &gt; key）正确，后面还会用到循环不变式。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div></pre></td><td class="code"><pre><div class="line">// 循环不变式： A[l] &lt;= key &amp;  A[r] &gt; key</div><div class="line"></div><div class="line">// 边界: |r - l| = 1</div><div class="line"></div><div class="line">// 输入: A[l .... r-1]</div><div class="line">int BinarySearch(int A[],int l,int r,int key)&#123;</div><div class="line">    int m;</div><div class="line">    while( r - l &gt; 1 )&#123;</div><div class="line">        if( A[m] &lt;= key )</div><div class="line">            l = m ;</div><div class="line">        else</div><div class="line">            r = m ;</div><div class="line">    &#125;</div><div class="line">    if( A[l] == key )</div><div class="line">        return l ;</div><div class="line">    else</div><div class="line">        return -1 ;</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<hr>
+<p>例子描述</p>
+<p>给一个有N个互不相同的元素的已排序数组，返回小于或等于给定key的最大元素。 例如输入为 A = {-1, 2, 3, 5, 6, 8, 9, 10} key = 7,应该返回6.</p>
+<p>分析：</p>
+<p>我们可以用上面的优化方案，还是保持一个恒等式，然后移动 左右两个指针。最终 left指针会指向 小于或等于给定key的最大元素(根据恒等式A[l] &lt;= key and A[r] &gt; key)。</p>
+<p>如果数组中所有元素都小于key，左边的指针left 会一直移动到最后一个元素。<br>如果数组中所有元素都大于key，这是一个错误条件，无答案。<br>如果数组中的所有元素都 &lt;= key，这是最坏的情况根据下面的实现</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div></pre></td><td class="code"><pre><div class="line">// 循环不变式: A[l] &lt;= key and A[r] &gt; key</div><div class="line">// 边界条件: |r - l| = 1</div><div class="line">// 输入: A[l .... r-1]</div><div class="line">// 先决条件: A[l] &lt;= key &lt;= A[r]</div><div class="line">int Floor(int A[], int l, int r, int key)</div><div class="line">&#123;</div><div class="line">    int m;</div><div class="line">    while( r - l &gt; 1 )</div><div class="line">    &#123;</div><div class="line">        m = l + (r - l)/2;</div><div class="line">        if( A[m] &lt;= key )</div><div class="line">            l = m;</div><div class="line">        else</div><div class="line">            r = m;</div><div class="line">    &#125;</div><div class="line">    return A[l];  // A[l]即是小于或等于key的最大元素</div><div class="line">&#125;</div><div class="line"></div><div class="line">// 初始调用</div><div class="line">int Floor(int A[], int size, int key)</div><div class="line">&#123;</div><div class="line">    // 如果 key &lt; A[0] 不符合条件</div><div class="line">    if( key &lt; A[0] )</div><div class="line">        return -1;</div><div class="line"></div><div class="line">    return Floor(A, 0, size, key);</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;二分查找算法总结&quot;&gt;&lt;a href=&quot;#二分查找算法总结&quot; class=&quot;headerlink&quot; title=&quot;二分查找算法总结&quot;&gt;&lt;/a&gt;二分查找算法总结&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;典型的二分查找&lt;/li&gt;
+&lt;li&gt;复杂度低的二分查找&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;例子&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="算法" scheme="http://www.tianhao.site/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法篇" scheme="http://www.tianhao.site/tags/%E7%AE%97%E6%B3%95%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《釜山行》</title>
+    <link href="http://www.tianhao.site/2016/09/17/%E3%80%8A%E9%87%9C%E5%B1%B1%E8%A1%8C%E3%80%8B/"/>
+    <id>http://www.tianhao.site/2016/09/17/《釜山行》/</id>
+    <published>2016-09-17T04:14:32.000Z</published>
+    <updated>2016-09-17T04:29:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><blockquote class="blockquote-center">世间有两种东西不能直视 一是太阳 二是人性</blockquote><br>下午抽时间看完了这段时间挺火的这部丧尸灾难片《釜山行》，然后心一直闷闷的，好像有什么堵着，无论怎么样，这是一部演员，剧情双在线的好电影。真的，这部电影可以写的点太多了，我都不知道从哪下手了，每个人物都想写一长篇，2个小时把每个人物刻画的那么鲜明，真的是很佩服导演。<br><a id="more"></a></p>
+<p>先说说那个棒球小子和他的女朋友吧。棒球小子带着妹子逃跑，妹子一直很惊慌在问怎么办怎么办，这个小男生也只不过是高中生而已啊，但是他还是那么冷静，整个棒球队的人都死了，他怎么会不害怕？可是他从没问过别人一句怎么办，最后小女朋友被咬了，他抱着她，一直在喊怎么办怎么办，那个冷静的他不见了，因为最让他手足无措的不是那些恐怖的丧尸，而是这个躺在他怀里在抽搐的女朋友，棒球队没了，一路守护着的人也这么痛苦，那个镜头加上配乐，小女生清脆的一声撕咬，男主选择了他认为对的方式了结了这一切！真的是丝毫没有挣脱，什么是爱？这应该算吧。<img src="http://oct3pmpde.bkt.clouddn.com/F66A.tm.png" alt="这里写图片描述"> 下面说说这个让我非常敬佩的壮汉大叔。从第一次亮相，就看出这个大叔真的是很爱自己老婆，只是没有想到爱的那么深。整部电影最燃的部分是主角（下面会讲到），壮汉大叔，前面提到的棒球小子，三人勇闯4个车间的那个桥段，一个为了自己的女儿，一个为了自己怀孕了的老婆，一个为了自己的女朋友，真是人性光辉最大化的呈现。只是，没有想到闯过了四个车间的丧尸，最后败给了人性的自私。大叔一人堵着成百的丧尸，最后对自己老婆的几声不要过来的撕喊，应该是最伟大的呐喊了吧，身后是数不清的丧尸，自己也马上要变丧尸了，可是眼神里一点绝望也没有，全是温柔的爱~（全片有几个印象深刻的笑容，这是其中之一，后面会提及其他的）。</p>
+<p></p>
+
+<p><img src="http://oct3pmpde.bkt.clouddn.com/C7E8.tm.png" alt="这里写图片描述"></p>
+<p></p><br>老年姐妹，第一次亮相交代了这个姐姐一辈子就知道为别人考虑，从不为自己考虑什么，当这个老奶奶发现比后面成堆的丧尸更丑陋的是自己面前这堆丑陋的人类的时候，老奶奶笑了，这个笑容真的可以说是全片之最，也许她是累了走不动了，也许她是对面前自私的人类绝望了，也许她是在生命的最后关头也想着别人，牺牲了自己，总之，那个笑容很安详很安详，妹妹看到姐姐一点点变丧尸，可能也跟着绝望了吧，对这个车厢里人们的绝望，也是对姐姐的绝望，是什么促使她打开了那扇车门？解读很多，或许是真的绝望到极点了吧<br>   <p></p><br><img src="http://oct3pmpde.bkt.clouddn.com/9EF7.tm.png" alt="这里写图片描述"><br><p></p>
+
+<p>流浪者，一个代表社会最底层的邋遢汉，很怕死，很怕很怕，怕的自己躲在座位那全身直打哆嗦，可是，这个被那么多人瞧不起的邋遢汉，救了主角一次（也是主角心态转变的重点），就是最后关头，依然可以选择牺牲自己，保护孩子和孕妇，问他怕不怕死？怎么不怕,这个曾经被无数人唾弃的流浪汉，最终选择了他最有价值的死法，难道不是对那个高高在上的常务（后面会提到）的最大讽刺吗？</p>
+<p></p>
+
+<p>常务，一个西装革履，内心丑陋的人物，司机大叔，乘务长，棒球小子和女朋友这么多人，都因为他求自保而死，片头他和小孩子的对话应该就映射了他的坏人形象吧，人的自私在这个人的身上真是表现的淋漓尽致。</p>
+<p></p><br>下面谈谈主角，一个常年工作，没时间陪孩子的父亲，一个商场吸血的所谓精英，在这趟列车上，真正实现了心灵的洗涤，一开始自私的不给壮汉大叔开门，后来自己的孩子被壮汉大叔救下，自己又被流浪者救，心态开始了很大的转变，一路惊险重重，但是小女孩和壮汉大叔临终托付给他的孕妇早已比自己的性命重要，影片最后的高潮，主角的笑容真的，是我见过丧尸里最温暖的笑容了，最后主角被丧尸咬了，最后的理智让他把自己的孩子和孕妇锁在安全的地方，自己背对着列车，回想起孩子出生时，可爱的样子，欣慰的笑了，作为一个丧尸，他，笑了，然后，为了不伤害孩子和孕妇，跳车自尽了。孔侑的演技真的是赞到爆炸。<br><p></p><br><img src="http://oct3pmpde.bkt.clouddn.com/B79E.tm.png" alt="这里写图片描述"><br><p></p>
+
+<p>整部电影对人性的剖析真的是很露骨，演员演技都超赞，指的看很多遍的电影，力荐。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;世间有两种东西不能直视 一是太阳 二是人性&lt;/blockquote&gt;&lt;br&gt;下午抽时间看完了这段时间挺火的这部丧尸灾难片《釜山行》，然后心一直闷闷的，好像有什么堵着，无论怎么样，这是一部演员，剧情双在线的好电影。真的，这部电影可以写的点太多了，我都不知道从哪下手了，每个人物都想写一长篇，2个小时把每个人物刻画的那么鲜明，真的是很佩服导演。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="影评" scheme="http://www.tianhao.site/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+      <category term="影评" scheme="http://www.tianhao.site/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法篇————快速幂</title>
+    <link href="http://www.tianhao.site/2016/09/15/%E7%AE%97%E6%B3%95%E7%AF%87%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E5%BF%AB%E9%80%9F%E5%B9%82/"/>
+    <id>http://www.tianhao.site/2016/09/15/算法篇————快速幂/</id>
+    <published>2016-09-15T02:12:34.000Z</published>
+    <updated>2016-09-15T02:15:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天介绍第二种算法，快速幂的使用，这个极大的方便了数值较大的数的之间的运算。</p>
+<h2 id="快速幂取模"><a href="#快速幂取模" class="headerlink" title="快速幂取模"></a>快速幂取模</h2><p>假如我们要求a^b，而b是一个非常大的数的话，我们就可以用到快速幂的算法。这样复杂度不高，不会超时。</p>
+<p>假如求 a ^ n 次方</p>
+<p>我们可以把 n 表示为 2^k1 + 2^k2  + 2^k3….，可以证明所有数都可以用前式来表示。（其实就是二进制表示数的原理）<br><a id="more"></a><br>那么 a^n = a^2^k1 <em> a^2^k2 </em> a^2^k3……</p>
+<p>那么就可以利用二进制来加快计算速度了。</p>
+<p>假如 a^22 , 22转化为二进制为 10110， 即 a^22 = a^16 <em> a^4 </em> a^2;</p>
+<p>那么是不是可以在O（logn）的复杂度求解。</p>
+<p>下面是代码实现：（特别注意避免大数超出范围，用long long 存中间值）</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">typedef long long LL;</div><div class="line">LL fun(LL x,LL n,)</div><div class="line">&#123;</div><div class="line">    LL res=1;</div><div class="line">    while(n&gt;0)</div><div class="line">    &#123;</div><div class="line">        if(n &amp; 1)</div><div class="line">            res=(res*x)%Max;</div><div class="line">        x=(x*x)%Max;</div><div class="line">        n &gt;&gt;= 1;</div><div class="line">    &#125;</div><div class="line">    return res;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<h2 id="矩阵快速幂"><a href="#矩阵快速幂" class="headerlink" title="矩阵快速幂"></a>矩阵快速幂</h2><p>前面是数与数之间的幂运算，对于矩阵与矩阵的幂运算，也可以用到快速幂的解决办法。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div></pre></td><td class="code"><pre><div class="line">/*===================================*/</div><div class="line">|| 快速幂（quickpow）模板 </div><div class="line">|| P 为等比，I 为单位矩阵</div><div class="line">|| MAX 要初始化！！！！</div><div class="line">||</div><div class="line">/*===================================*/</div><div class="line">/*****************************************************/</div><div class="line">#include &lt;cstdio&gt;</div><div class="line">const int MAX = 3;</div><div class="line"></div><div class="line">typedef  struct&#123;</div><div class="line">        int  m[MAX][MAX];</div><div class="line">&#125;  Matrix;</div><div class="line"></div><div class="line">Matrix P = &#123;5,-7,4,</div><div class="line">            1,0,0,</div><div class="line">            0,1,0,</div><div class="line">           &#125;;</div><div class="line"></div><div class="line">Matrix I = &#123;1,0,0,</div><div class="line">            0,1,0,</div><div class="line">            0,0,1,</div><div class="line">           &#125;;</div><div class="line">           </div><div class="line">Matrix matrixmul(Matrix a,Matrix b) //矩阵乘法</div><div class="line">&#123;</div><div class="line">       int i,j,k;</div><div class="line">       Matrix c;</div><div class="line">       for (i = 0 ; i &lt; MAX; i++)</div><div class="line">           for (j = 0; j &lt; MAX;j++)</div><div class="line">             &#123;</div><div class="line">                 c.m[i][j] = 0;</div><div class="line">                 for (k = 0; k &lt; MAX; k++)</div><div class="line">                     c.m[i][j] += (a.m[i][k] * b.m[k][j])%9997;</div><div class="line">                 c.m[i][j] %= 9997;</div><div class="line">             &#125;</div><div class="line">       return c;</div><div class="line">&#125;</div><div class="line">          </div><div class="line">Matrix quickpow(long long n)</div><div class="line">&#123;</div><div class="line">       Matrix m = P, b = I;</div><div class="line">       while (n &gt;= 1)</div><div class="line">       &#123;</div><div class="line">             if (n &amp; 1)</div><div class="line">                b = matrixmul(b,m);</div><div class="line">             n = n &gt;&gt; 1;</div><div class="line">             m = matrixmul(m,m);</div><div class="line">       &#125;</div><div class="line">       return b;</div><div class="line">&#125;</div><div class="line">               /*************************************/</div><div class="line"></div><div class="line">int main()</div><div class="line">&#123;</div><div class="line">    Matrix re;</div><div class="line">    int f[3] = &#123;2,6,19&#125;;</div><div class="line">    long long n;</div><div class="line">    while (scanf(&quot;%I64d&quot;,&amp;n) &amp;&amp; n != 0)</div><div class="line">    &#123;</div><div class="line">          if (n == 1)</div><div class="line">             printf(&quot;1\n&quot;);</div><div class="line">          else if (n &lt;= 4)</div><div class="line">                  printf(&quot;%d\n&quot;,f[n-2]);</div><div class="line">               else &#123;</div><div class="line">                      re = quickpow(n - 4);</div><div class="line">                      printf(&quot;%d\n&quot;,(((re.m[0][0]*f[2]) </div><div class="line">                             + (re.m[0][1]*f[1]) + (re.m[0][2]*f[0])) %9997 + 9997) % 9997);</div><div class="line">                      &#125;</div><div class="line">    &#125;</div><div class="line">    return 0;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天介绍第二种算法，快速幂的使用，这个极大的方便了数值较大的数的之间的运算。&lt;/p&gt;
+&lt;h2 id=&quot;快速幂取模&quot;&gt;&lt;a href=&quot;#快速幂取模&quot; class=&quot;headerlink&quot; title=&quot;快速幂取模&quot;&gt;&lt;/a&gt;快速幂取模&lt;/h2&gt;&lt;p&gt;假如我们要求a^b，而b是一个非常大的数的话，我们就可以用到快速幂的算法。这样复杂度不高，不会超时。&lt;/p&gt;
+&lt;p&gt;假如求 a ^ n 次方&lt;/p&gt;
+&lt;p&gt;我们可以把 n 表示为 2^k1 + 2^k2  + 2^k3….，可以证明所有数都可以用前式来表示。（其实就是二进制表示数的原理）&lt;br&gt;
+    
+    </summary>
+    
+      <category term="算法" scheme="http://www.tianhao.site/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法篇" scheme="http://www.tianhao.site/tags/%E7%AE%97%E6%B3%95%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法篇————入门级算法</title>
+    <link href="http://www.tianhao.site/2016/09/14/%E7%AE%97%E6%B3%95%E7%AF%87%E2%80%94%E2%80%94%E5%85%A5%E9%97%A8%E7%BA%A7%E7%AE%97%E6%B3%95/"/>
+    <id>http://www.tianhao.site/2016/09/14/算法篇——入门级算法/</id>
+    <published>2016-09-14T04:54:22.000Z</published>
+    <updated>2016-09-14T04:56:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> 从今天开始，复习各种算法，每天都会去理解一种算法，争取贴出自己对每种算法的理解，今天介绍的是最基础的入门算法，最大公约数，最小公倍数，快速幂（后面会重点介绍），简单并查集（后面会重点介绍），还有排列组合（后面会重点介绍）的算法。<br>  <a id="more"></a></p>
+<h2 id="最大公约数和最小公倍数的算法原理"><a href="#最大公约数和最小公倍数的算法原理" class="headerlink" title="最大公约数和最小公倍数的算法原理"></a>最大公约数和最小公倍数的算法原理</h2><ol>
+<li><p>最大公约数gcd的实现原理：</p>
+<p>  欧几里德定理<br>若 a=b×r+q 则gcd(a, b) = gcd(b, q).</p>
+<p>欧几里德定理的证明<br>a = b × r + q<br>设c = gcd(a, b), a = m×c, b= n×c<br>q = a - b× r = (m - n × r)×c<br>下面证明 m-n×r与n互质：<br>假设不互质，则存在k使得 m-n×r = x×k, n = y×k.<br>则:<br>a = m×c = (n×r + x×k)×c = (y×r + x×k)×c×k<br>b = n×c = y×c×k<br>与 c=gcd(a, b) 矛盾。<br>辗转相除法的算法实现<br>a = b × r_1 + q_1<br>if q_1 = 0<br>  then return b<br>else<br>b = q_1 × r_2 + q_2<br>if q_2 = 0<br>  then return q_1<br>else<br>……<br>直到找到GCD为止。</p>
+</li>
+<li><p>最小公倍数的实现原理</p>
+<p>lcm=a*b/gcd   (公式)</p>
+</li>
+</ol>
+<h2 id="代码实现"><a href="#代码实现" class="headerlink" title="代码实现"></a>代码实现</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div></pre></td><td class="code"><pre><div class="line">#include &lt;iostream&gt;</div><div class="line">#include &lt;cstdio&gt;</div><div class="line">#include &lt;cstring&gt;</div><div class="line">#include &lt;cmath&gt;</div><div class="line">using namespace std;</div><div class="line">#define N 1009</div><div class="line">#define inf 0x0f0f0f0f</div><div class="line">//最大公约数</div><div class="line">int gcd(int a,int b)&#123;</div><div class="line">    if(b==0) return a;</div><div class="line">    else return gcd(b,a%b);</div><div class="line">&#125;</div><div class="line">//最小公倍数</div><div class="line">int lcm(int a,int b)&#123;</div><div class="line">    return a/gcd(a,b)*b;</div><div class="line">&#125;</div><div class="line">//快速幂</div><div class="line">int Fast(int x,int n)&#123;</div><div class="line">    int tem = x,ans = 1;</div><div class="line">    while(n)&#123;</div><div class="line">        if(n%2==1) ans*=tem;</div><div class="line">        tem *= tem;</div><div class="line">        n &gt;&gt;= 1;</div><div class="line">    &#125;</div><div class="line">    return ans;</div><div class="line">&#125;</div><div class="line">//简单并查集</div><div class="line">int f[N];</div><div class="line">int ans;</div><div class="line">void init(int n)&#123;</div><div class="line">    for(int i = 1;i&lt;=n;i++)</div><div class="line">        f[i] = i;</div><div class="line">    ans = 0;</div><div class="line">&#125;</div><div class="line">int find(int x)&#123;</div><div class="line">    if(f[x]==x) return x;</div><div class="line">    else return f[x] = find(f[x]);</div><div class="line">&#125;</div><div class="line">void Union(int a,int b)&#123;</div><div class="line">    int f1 = find(a);</div><div class="line">    int f2 = find(b);</div><div class="line">    if(f1!=f2)&#123;</div><div class="line">       f[f1] = f2;</div><div class="line">       ans++;</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line">//计算排列组合</div><div class="line">int c[N][N];</div><div class="line">void Com()&#123;</div><div class="line">    memset(c,0,sizeof(c));</div><div class="line">    for(int i = 1;i&lt;N;i++)&#123;</div><div class="line">        c[i][0] = c[i][i] = 1;</div><div class="line">        for(int j = 1;j&lt;i;j++)&#123;</div><div class="line">            c[i][j] = c[i-1][j] + c[i-1][j-1];</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line">void Test1()&#123;</div><div class="line">    Com();</div><div class="line">    printf(&quot;gcd==%d\n&quot;,gcd(12,3));</div><div class="line">    printf(&quot;lcm==%d\n&quot;,lcm(4,3));</div><div class="line">    printf(&quot;fast===%d\n&quot;,Fast(2,3));</div><div class="line">    printf(&quot;Com===%d\n&quot;,c[12][3]);</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 从今天开始，复习各种算法，每天都会去理解一种算法，争取贴出自己对每种算法的理解，今天介绍的是最基础的入门算法，最大公约数，最小公倍数，快速幂（后面会重点介绍），简单并查集（后面会重点介绍），还有排列组合（后面会重点介绍）的算法。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="算法" scheme="http://www.tianhao.site/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法篇" scheme="http://www.tianhao.site/tags/%E7%AE%97%E6%B3%95%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016-9-13随记</title>
+    <link href="http://www.tianhao.site/2016/09/13/2016-9-13%E9%9A%8F%E8%AE%B0/"/>
+    <id>http://www.tianhao.site/2016/09/13/2016-9-13随记/</id>
+    <published>2016-09-13T10:22:46.000Z</published>
+    <updated>2016-09-13T10:26:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="随记"><a href="#随记" class="headerlink" title="随记"></a>随记</h2><p>这两天借着一个小伙伴的笔试经历，我发现了自己的很大不足。大众点评和腾讯的笔试都不是那么简单。操作系统，编译原理，COA，数据结构，数据库，真的是什么都考啊，感觉基础课真的很不扎实，逻辑题好像也挺重要，不过，说真的，那些题型真的有点变态，一堆数字放在一起，让你选下一个数字，貌似一年级时候训练过的找规律，可是尼玛，谁能告诉我规律是什么?可能这靠的就是对数字和计算机的观察度和专业素养的积累吧。<br> <a id="more"></a></p>
+<h2 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h2><p>音乐专栏完成了，说实话，对于界面还是可以的，唯一的缺点是引用的音乐外链，本来想用aplayer播放器插件直接套在里面的，最后权衡了好久，还是决定不了，因为那个list说实话不是很好看，不太搭，自己的js又不是很熟，不然以后有时间会写个内置播放器的，暂且当做一个歌单看看吧，链入的都是网易云音乐或者QQ音乐，虾米的播放链接，感觉是有点乱啊，以后有时间再说吧，感觉这两天一直都在整这个博客的功能，有点忘本了，毕竟以后应该不会做网页，还是好好打好基础。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;随记&quot;&gt;&lt;a href=&quot;#随记&quot; class=&quot;headerlink&quot; title=&quot;随记&quot;&gt;&lt;/a&gt;随记&lt;/h2&gt;&lt;p&gt;这两天借着一个小伙伴的笔试经历，我发现了自己的很大不足。大众点评和腾讯的笔试都不是那么简单。操作系统，编译原理，COA，数据结构，数据库，真的是什么都考啊，感觉基础课真的很不扎实，逻辑题好像也挺重要，不过，说真的，那些题型真的有点变态，一堆数字放在一起，让你选下一个数字，貌似一年级时候训练过的找规律，可是尼玛，谁能告诉我规律是什么?可能这靠的就是对数字和计算机的观察度和专业素养的积累吧。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="个人随笔" scheme="http://www.tianhao.site/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="感悟" scheme="http://www.tianhao.site/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo + next 搭建博客相册页和音乐页教程</title>
+    <link href="http://www.tianhao.site/2016/09/13/hexo-next-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%86%8C%E9%A1%B5%E5%92%8C%E9%9F%B3%E4%B9%90%E9%A1%B5%E6%95%99%E7%A8%8B/"/>
+    <id>http://www.tianhao.site/2016/09/13/hexo-next-搭建博客相册页和音乐页教程/</id>
+    <published>2016-09-13T02:57:33.000Z</published>
+    <updated>2016-09-13T03:09:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="搭建相册页"><a href="#搭建相册页" class="headerlink" title="搭建相册页"></a>搭建相册页</h2><ol>
+<li>在git上输入 hexo new page “photos”,创建photos页面，之后在sourse文件夹下能够找到photos文件夹，在index.md里添加type: photos.</li>
+<li>进入theme里的next下的config,在menu菜单下添加上photos页。</li>
+<li>如果语言选择是zh-hans的话，记得在languanges里把photos添加进去，以确保网页显示的菜单为photos.<a id="more"></a></li>
+<li>下面是重点，所有新建页面都可以照葫芦画瓢，next主题的整个网页布局都存在layout文件夹下，可以找到layout文件夹下有layout.swig和page.swig两个文件，layout.swig写的是整个页面的整体布局，page.swig是针对不同页面的布局。如果我们想搭建相册页，可以把自己写的相册页的代码放到page.swig,page.swig文件里div为post里有队不同页面的不同布局有分类，我们可以将相册页的代码显示在这里面，用到的js和css别忘了引用，存的时候用绝对路径就可以了。还有一种方法就是把代码直接放到photos文件夹下的index.md里，但是这个方法的js和css布局容易出问题，两种方法，相册页存储的div不同，容易引起页面混乱。</li>
+</ol>
+<h2 id="搭建音乐页"><a href="#搭建音乐页" class="headerlink" title="搭建音乐页"></a>搭建音乐页</h2><ol>
+<li>音乐页的新建建与相册页如出一辙，在git上输入 hexo new page “music”,创建music页面，之后在sourse文件夹下能够找到music文件夹，在index.md里添加type: music.</li>
+<li>进入theme里的next下的config,在menu菜单下添加上music页。</li>
+<li>如果语言选择是zh-hans的话，记得在languanges里把music添加进去，以确保网页显示的菜单为music.</li>
+<li>如果我们想搭建音乐页，可以把自己写的音乐页的代码放到page.swig,page.swig文件里div为post里有队不同页面的不同布局有分类，我们可以将相册页的代码显示在这里面，关于网易云音乐的外链播放器和虾米的外链播放器对于hexo支持不是特别好，所以大家可以考虑自己动手写一个播放器或者是引用外部链接，这里不多说，除了相册和音乐，其他新的页面的展现大家都可以这么实现，有问题大家可以提出来。</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;搭建相册页&quot;&gt;&lt;a href=&quot;#搭建相册页&quot; class=&quot;headerlink&quot; title=&quot;搭建相册页&quot;&gt;&lt;/a&gt;搭建相册页&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;在git上输入 hexo new page “photos”,创建photos页面，之后在sourse文件夹下能够找到photos文件夹，在index.md里添加type: photos.&lt;/li&gt;
+&lt;li&gt;进入theme里的next下的config,在menu菜单下添加上photos页。&lt;/li&gt;
+&lt;li&gt;如果语言选择是zh-hans的话，记得在languanges里把photos添加进去，以确保网页显示的菜单为photos.
+    
+    </summary>
+    
+      <category term="Web" scheme="http://www.tianhao.site/categories/Web/"/>
+    
+    
+      <category term="hexo" scheme="http://www.tianhao.site/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《浪客剑心》——影评</title>
+    <link href="http://www.tianhao.site/2016/09/11/%E6%B5%AA%E5%AE%A2%E5%89%91%E5%BF%83%E2%80%94%E2%80%94%E5%BD%B1%E8%AF%84/"/>
+    <id>http://www.tianhao.site/2016/09/11/浪客剑心——影评/</id>
+    <published>2016-09-11T05:47:09.000Z</published>
+    <updated>2016-09-11T05:48:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="影评"><a href="#影评" class="headerlink" title="影评"></a>影评</h2><p>昨天，我同学各种恳求，让我看看《浪客剑心》系列电影，印象中不知道他跟我提过多少次这系列电影，昨晚抽了点空看了第一部，算是了了他的心愿。不过，说实话，虽然只看了第一部，不过感触还是蛮大的，在开篇之前，我想说，里面的女主角笑起来绝对的好看，很适合这个角色，长得有点像杨丞琳，对角色的内心把握的很好。</p>
+<p></p><br><blockquote class="blockquote-center">浪花淘尽英雄客，拔剑四顾心茫然。十年隐迹无人问，冲冠一怒为红颜。</blockquote><br><img src="http://oct3pmpde.bkt.clouddn.com/a686c9177f3e670936eec8773dc79f3df9dc5548.jpg" width="500" height="343"><br><p></p><br><a id="more"></a><br>这是在豆瓣看到的一个短评，感觉以上这首诗对于绯村是一个很好的概括。<br>一个红色头发，脸上有着十字刀疤的少年，仿佛一脸的稚嫩，却只有他自己知道自己手中沾满了多少人的血，当新时代到来，决定放下手中的杀人剑，归隐做一个浪客的他，十年后，为了惩恶扬善，剑又出鞘，只是剑已经不是当年的剑，心也不是当年的心，或许是熏的出现，彻底坚定了他放下过去，不再杀人的决心。可是，手持逆刃刀，真的能保护自己想保护的人吗？也许后面两部电影会告诉我答案。<br><p></p><br><p></p><br><img src="http://oct3pmpde.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20160911133732.png" width="500" height="343"><br><p></p><br><p></p><br>电影的配乐无可挑剔，日本的电影里的配乐总是那么自然。<br><p></p><br>电影中有一个场景印象特别深刻。<br><p></p><br>大雨中的熏。<br><p></p><br>她递过来一把伞，说：跟我回家。冷色调的画面，阴冷的天。绯村的衣服上的雨水和肩上的血水都混在一起了，外面是那么冷，不过，有这样一个人，说了这样一句话：跟我回家。估计也感觉不到冷了吧。<br><p></p><br><img src="http://oct3pmpde.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20160911133614.png" width="500" height="343"><br><p></p>
+
+<p></p>
+
+<h2 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h2><p></p><p></p><br>今天上午完成了相册的改版，中间出了一个小bug，相册页的sidebar总是跑到content下面，让我一上午摸不到头脑，后来一步一步查，发现content里面有一个div没有结束符，就这么一个小小的错误，我找了一上午，花了3个小时买了一个教训。不过，总的来说，最后还是完成了，欢迎大家以后多来看看。<p></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;影评&quot;&gt;&lt;a href=&quot;#影评&quot; class=&quot;headerlink&quot; title=&quot;影评&quot;&gt;&lt;/a&gt;影评&lt;/h2&gt;&lt;p&gt;昨天，我同学各种恳求，让我看看《浪客剑心》系列电影，印象中不知道他跟我提过多少次这系列电影，昨晚抽了点空看了第一部，算是了了他的心愿。不过，说实话，虽然只看了第一部，不过感触还是蛮大的，在开篇之前，我想说，里面的女主角笑起来绝对的好看，很适合这个角色，长得有点像杨丞琳，对角色的内心把握的很好。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;浪花淘尽英雄客，拔剑四顾心茫然。十年隐迹无人问，冲冠一怒为红颜。&lt;/blockquote&gt;&lt;br&gt;&lt;img src=&quot;http://oct3pmpde.bkt.clouddn.com/a686c9177f3e670936eec8773dc79f3df9dc5548.jpg&quot; width=&quot;500&quot; height=&quot;343&quot; /&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="影评" scheme="http://www.tianhao.site/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+      <category term="影评" scheme="http://www.tianhao.site/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,15 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /VEN/
+Disallow: /fancybox/
+
+Sitemap: http://www.tianhao.site/sitemap.xml
+Sitemap: http://www.tianhao.site/baidusitemap.xml
+
