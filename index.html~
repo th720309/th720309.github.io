@@ -8,6 +8,17 @@
     <meta name="viewport" content="width=device-width,inital-scale=1,maximum-scale=1.0,user-scalable=no,minimal-ui">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="th是个小屁孩的小屋">
+    <!-- 百度统计 -->
+    <script>
+	var _hmt = _hmt || [];
+	(function() {
+  	var hm = document.createElement("script");
+  	hm.src = "https://hm.baidu.com/hm.js?c0451e16533956173997b85f7a8de666";
+  	var s = document.getElementsByTagName("script")[0]; 
+  	s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+
     <!-- CSS -->
     <link rel="stylesheet" href="css/index.css">
     <!--font-awesome-->
@@ -56,7 +67,7 @@
         <div class="info-content">
             <img class="info-avatar" src="images/timg.jpg" />
             <div class="info-link">
-                <a class="info-icon" href="code.html"><i class="fa fa-code"></i></a>
+                <a class="info-icon" href="/blog/project/"><i class="fa fa-code"></i></a>
                 <div style="width: 100px; height: 100px; float: left; margin: 0 20px;"></div>
                 <a class="info-icon" href="/blog"><i class="fa fa-puzzle-piece"></i></a>
             </div>
