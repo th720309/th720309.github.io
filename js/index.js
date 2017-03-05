@@ -24,6 +24,6 @@ $(document).ready(function() {
     n.on("click",camera);
 });
 function logo(){
-    $(".logo-svg").css("background","url(images/weixin.png) center no-repeat");
+    $(".logo-svg").css("background","url(http://oct3pmpde.bkt.clouddn.com/weixin.png) center no-repeat");
     $(".logo-svg").css("background-size","50%");
 }

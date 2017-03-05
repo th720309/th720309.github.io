@@ -16,9 +16,7 @@ $(document).ready(function() {
         bodyBgs[8] = "http://oct3pmpde.bkt.clouddn.com/img9.jpg";
         bodyBgs[9] = "http://oct3pmpde.bkt.clouddn.com/img10.jpg";
         var randomBgIndex = Math.round( Math.random() * 9 );
-/*        $(".logo-svg").toggleClass("switch"),$(".logo-container").toggleClass("switch");*/
-       /* $('.logo-svg.weichat').hide();*/
-        $(".logo-svg").animate({width:500},"slow");
+        $(".logo-svg").animate({width:400},"slow");
         $(".logo-svg").css("background","url("+bodyBgs[randomBgIndex]+") center no-repeat");
         $(".logo-svg").css("background-size","100%");
     }
@@ -26,8 +24,6 @@ $(document).ready(function() {
     n.on("click",camera);
 });
 function logo(){
-   /* $(".logo-svg").toggleClass("weichat"),$(".logo-container").toggleClass("weichat");*/
     $(".logo-svg").css("background","url(images/weixin.png) center no-repeat");
     $(".logo-svg").css("background-size","50%");
-   /* $(".logo-svg.weichat").style.display = "none";*/
 }
