@@ -23,7 +23,8 @@ $(document).ready(function() {
     var n=$(".info-avatar");
     n.on("click",camera);
 });
-function logo(){
+var demo = document.getElementById("weixin");
+demo.onclick = function(){
     $(".logo-svg").css("background","url('http://oct3pmpde.bkt.clouddn.com/weixin.png') center no-repeat");
     $(".logo-svg").css("background-size","50%");
 }
