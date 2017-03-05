@@ -34,7 +34,7 @@
     <section class="header-container">
         <div class="header-content">
             <div class="h-info-link">
-                <a class="h-info-icon extra" href="javascript:void(0)" onclick="logo();" target="_blank"><i class="fa fa-weixin"></i></a>
+                <a id="weixin" class="h-info-icon extra" href="javascript:void(0)" target="_blank"><i class="fa fa-weixin"></i></a>
                 <a class="h-info-icon extra" href="//github.com/th720309" target="_blank"><i class="fa fa-github"></i></a>
                 <a class="h-info-icon extra" href="//weibo.com/th0527" target="_blank"><i class="fa fa-weibo"></i></a>
                 <a class="h-info-icon extra" href="//music.163.com/#/user/home?id=250384515" target="_blank"><i class="fa fa-music"></i></a>
