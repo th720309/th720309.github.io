@@ -27,6 +27,18 @@ h1 {
     text-transform: uppercase;
     margin: 12px 0;
     left: 4px;
+    display: inline-block;
+    font-weight: bolder;
+    line-height: 3rem;
+    height: 3rem;
+    padding: 0 1rem;
+    -webkit-transition: padding 0.3s ease-out;
+    transition: padding 0.3s ease-out;
+}
+h1:hover{
+    padding: 0 1.5rem;
+    background-color: #f03838;
+    color: #fff;
 }
 h2 {
     color: #999;
