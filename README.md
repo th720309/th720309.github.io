@@ -2,7 +2,5 @@
 
 
 ----------
-
-<center>   ![Blog](http://oct3pmpde.bkt.clouddn.com/index.jpg)</center>
-
+![Blog](http://oct3pmpde.bkt.clouddn.com/index.jpg)
 
