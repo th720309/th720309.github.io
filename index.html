@@ -1,88 +1,91 @@
-
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>th是个小屁孩的小屋</title>
+    <meta name="description" content="th是个小屁孩的个人网站，欢迎光临">
+    <meta name="keywords" content="个人网站,blog,th是个小屁孩,前端,javascript">
     <meta name="viewport" content="width=device-width,inital-scale=1,maximum-scale=1.0,user-scalable=no,minimal-ui">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="th是个小屁孩的小屋">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <!-- 百度统计 -->
     <script>
-	var _hmt = _hmt || [];
-	(function() {
-  	var hm = document.createElement("script");
-  	hm.src = "https://hm.baidu.com/hm.js?c0451e16533956173997b85f7a8de666";
-  	var s = document.getElementsByTagName("script")[0]; 
-  	s.parentNode.insertBefore(hm, s);
-	})();
-</script>
-    <link rel="stylesheet" href="css/index.css">
-    <!--font-awesome-->
-    <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <!-- Fonts -->
-    <link href='//fonts.googleapis.com/css?family=Stalemate' rel='stylesheet' type='text/css'>
-    <!--icon-->
-    <link rel="shortcut icon" href="images/favicon.ico">
-
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?c0451e16533956173997b85f7a8de666";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
 </head>
 <body>
-<div id="wrapper">
-    <h1>th是个小屁孩</h1>
-    <h2>永远相信美好的事情即将发生</h2>
-    <p><a href="http://www.tianhao.site/blog" target="_blank">Blog</a></p>
-    <p><a href="https://github.com/th720309" target="_blank">Github</a></p>
-    <p><a href="http://weibo.com/th0527" target="_blank">微博</a></p>
-    <p><a href="https://www.zhihu.com/people/tian-hao-69-26" target="_blank">知乎</a></p>
-</div>
-<canvas></canvas>
+
+    <div class="container">
+        <div class="cover-img" style="background: url(http://oct3pmpde.bkt.clouddn.com/wall-303.jpg) no-repeat fixed center center"></div>
+        <div class="header">
+            <img class="avator" src="http://oct3pmpde.bkt.clouddn.com/avator.jpg">
+            <nav>
+                <ul class="list">
+                    <span>Nicholas</span>
+                    <li><a href="http://www.tianhao.site/blog" class="animsition-link website-title" target="_blank" title="博客页"> | th是个小屁孩's blog</a></li>
+                    <li><a href="http://www.tianhao.site/blog" class="icon-twitter" target="_blank"><i class="fa fa-home" aria-hidden="true" title="博客页"></i></a></li>
+                    <li><a href="https://github.com/th720309" class="icon-github" target="_blank"><i class="fa fa-github" aria-hidden="true" title="github"></i></a></li>
+                    <li><a href="javascript:void(0)" class="icon-weixin" target="_blank"><i class="fa fa-weixin" aria-hidden="true" title="微信"></i></a></li>
+                    <li><a href="http://weibo.com/th0527" class="icon-weibo" target="_blank"><i class="fa fa-weibo" aria-hidden="true" title="微博"></i></a></li>
+                    <li class="nolink">
+                        <span class="welcome"> Welcome to my website!</span>
+                    </li>
+                    <img class="codeimg" src="img/weixin.jpg">
+                </ul>
+            </nav>
+        </div>
+        <div class="section" id="home">
+            <p class="glad">剑未佩妥，出门已是江湖
+            <p class="glad">酒尚余温，入口不识乾坤</p>
+        </div>
+    </div>
+    <!--移动端-->
+    <div id="wrapper">
+        <h1>th是个小屁孩</h1>
+        <h2>永远相信美好的事情即将发生</h2>
+        <p><a href="http://www.tianhao.site/blog" target="_blank">Blog</a></p>
+        <p><a href="https://github.com/th720309" target="_blank">Github</a></p>
+        <p><a href="http://weibo.com/th0527" target="_blank">微博</a></p>
+        <p><a href="https://www.zhihu.com/people/tian-hao-69-26" target="_blank">知乎</a></p>
+    </div>
 <script>
-    document.addEventListener('touchmove', function (e) {
-        e.preventDefault()
-    })
-    var c = document.getElementsByTagName('canvas')[0],
-        x = c.getContext('2d'),
-        pr = window.devicePixelRatio || 1,
-        w = window.innerWidth,
-        h = window.innerHeight,
-        f = 90,
-        q,
-        m = Math,
-        r = 0,
-        u = m.PI*2,
-        v = m.cos,
-        z = m.random
-    c.width = w*pr
-    c.height = h*pr
-    x.scale(pr, pr)
-    x.globalAlpha = 0.6
-    function i(){
-        x.clearRect(0,0,w,h)
-        q=[{x:0,y:h*.7+f},{x:0,y:h*.7-f}]
-        while(q[1].x<w+f) d(q[0], q[1])
-    }
-    function d(i,j){
-        x.beginPath()
-        x.moveTo(i.x, i.y)
-        x.lineTo(j.x, j.y)
-        var k = j.x + (z()*2-0.25)*f,
-            n = y(j.y)
-        x.lineTo(k, n)
-        x.closePath()
-        r-=u/-50
-        x.fillStyle = '#'+(v(r)*127+128<<16 | v(r+u/3)*127+128<<8 | v(r+u/3*2)*127+128).toString(16)
-        x.fill()
-        q[0] = q[1]
-        q[1] = {x:k,y:n}
-    }
-    function y(p){
-        var t = p + (z()*2-1.1)*f
-        return (t>h||t<0) ? y(p) : t
-    }
-    document.onclick = i
-    document.ontouchstart = i
-    i()
+    var weixin = document.querySelector(".icon-weixin");
+    var codeimg = document.querySelector(".codeimg");
+    var changeimg = document.querySelector(".avator");
+    var cover = document.querySelector(".cover-img");
+    var imgbox =   ["http://oct3pmpde.bkt.clouddn.com/wall-388.jpg",
+                    "http://oct3pmpde.bkt.clouddn.com/wall-39.jpg",
+                    "http://oct3pmpde.bkt.clouddn.com/wall-724.jpg",
+                    "http://oct3pmpde.bkt.clouddn.com/wall-303.jpg",
+                    "http://oct3pmpde.bkt.clouddn.com/wall-585.jpg",
+                    "http://oct3pmpde.bkt.clouddn.com/wall-427.jpg",
+                    "http://oct3pmpde.bkt.clouddn.com/wall-32.jpg",
+                    "http://oct3pmpde.bkt.clouddn.com/wall-722.jpg",
+                    "http://oct3pmpde.bkt.clouddn.com/wall-171.jpg",
+                    "http://oct3pmpde.bkt.clouddn.com/wall-1.jpg",
+                    "http://oct3pmpde.bkt.clouddn.com/wall-456.jpg"
+    ];
+    weixin.addEventListener('mouseover',function () {
+        codeimg.style.display = "block";
+    });
+    weixin.addEventListener('mouseout',function () {
+        codeimg.style.display = "none";
+    });
+    changeimg.addEventListener('click',function(){
+        var index = Math.floor((Math.random()*imgbox.length));
+        var temp = 'url(' + imgbox[index]+ ') no-repeat fixed center center';
+        cover.style.background = temp;
+    });
+
 </script>
 </body>
 </html>
