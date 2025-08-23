@@ -10,6 +10,6 @@ Disallow: /fonts/
 Disallow: /VEN/
 Disallow: /fancybox/
 
-Sitemap: http://www.tianhao.site/sitemap.xml
-Sitemap: http://www.tianhao.site/baidusitemap.xml
+Sitemap: http://www.tianmuyi.site/sitemap.xml
+Sitemap: http://www.tianmuyi.site/baidusitemap.xml
 
