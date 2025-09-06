@@ -2,5 +2,5 @@
 
 
 ----------
-![Blog](http://s3.tianmuyi.site/index.jpg)
+![Blog](images/index.jpg)
 
